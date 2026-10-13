@@ -1,0 +1,11 @@
+Football Web Simulator is a football management and simulation game that puts you in control of a club's destiny. Choose your team, build your squad, develop your tactics, and compete for trophies in a world where every decision can change your future.
+
+Take control of teams from the world's biggest leagues and play with footballers from different eras. Recreate legendary teams, bring together players from different generations, or lead an underdog club to the top of world football.
+
+Matches are designed to be dynamic and tactical. Games progress automatically, while your decisions shape how your team performs on the pitch. Choose your formation, define your playing style, make substitutions, and react to the action as it unfolds. Every match is a new challenge that tests your ability to think like a manager.
+
+Beyond the pitch, build a competitive squad, manage your club's resources, and make the decisions necessary to achieve long-term success. Whether your goal is domestic dominance, European glory, or creating the greatest team in history, the journey is yours to shape.
+
+With an accessible interface and a focus on freedom, strategy, and football history, Football Web Simulator brings the excitement of managing a football club directly to your browser.
+
+Choose your team. Make your tactics. Write your own football history.
